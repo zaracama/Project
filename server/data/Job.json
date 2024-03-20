@@ -1,0 +1,26 @@
+[
+   {
+      "title": "Admin",
+      "description": "Tambang",
+      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+      "Jobtype": "part time",
+      "CategoryId": 1,
+      "AuthorId": 2
+   },
+   {
+      "title": "Manager",
+      "description": "Restaurant",
+      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+      "Jobtype": "full time",
+      "CategoryId": 3,
+      "AuthorId": 2
+   },
+   {
+      "title": "Instructor",
+      "description": "Hakctiv8",
+      "imgUrl": "https://picsum.photos/seed/picsum/200/300",
+      "Jobtype": "part time",
+      "CategoryId": 2,
+      "AuthorId": 1
+   }
+]

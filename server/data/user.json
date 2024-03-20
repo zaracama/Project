@@ -1,0 +1,18 @@
+[
+   {
+       "username": "test Staff 0",
+       "email": "testStaff1@rocke.co.id",
+       "password": "576576",
+       "role": "Staff",
+       "phoneNumber" : "081341232111",
+       "address":  "Jl.Kemana No.0"
+   },
+   {
+       "username": "tes 1",
+       "email": "Admin1@rocke.co.id",
+       "password": "576576",
+       "role": "Admin",
+       "phoneNumber" : "08211331111",
+       "address":  "Jl. Dimana No.1"
+   }
+]

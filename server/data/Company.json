@@ -1,0 +1,23 @@
+[
+   {
+      "name": "PT.Ini Batu",
+      "companyLogo": "https://picsum.photos/200/300/?blur",
+      "location": "Ini Tidak Buntu",
+      "email": "Batu1@mail.com",
+      "description": "Tambang"
+   },
+   {
+      "name": "PT.Ini Resto",
+      "companyLogo": "https://picsum.photos/200/300/?blur",
+      "location": "Ini Buntu",
+      "email": "Resto1@mail.com",
+      "description": "Restaurant"
+   },
+   {
+      "name": "PT.Full Stuck",
+      "companyLogo": "https://picsum.photos/200/300/?blur",
+      "location": "Ini Tidak Jalan",
+      "email": "Stuck1@mail.com",
+      "description": "Hacktiv"
+   }
+]
